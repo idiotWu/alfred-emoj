@@ -7,6 +7,20 @@
 Uses the API from this great article on [Emoji & Deep Learning](http://getdango.com/emoji-and-deep-learning.html).<br>
 Check out the [Dango app](http://getdango.com) if you want something like this on your phone.
 
+## Revision
+
+Added GitHub emoji support:
+
+![GitHub Enhanced](screenshot-enhanced.png)
+
+## Install Enhanced Version
+
+```bash
+cd "~/Library/Application Support/Alfred 3/Alfred.alfredpreferences/workflows"
+git clone git@github.com:idiotWu/alfred-emoj.git
+cd alfred-emoj
+npm install
+```
 
 ## Install
 
